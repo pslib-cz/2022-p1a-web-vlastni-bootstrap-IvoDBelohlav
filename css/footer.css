@@ -42,6 +42,65 @@ footer {
     border-radius: 5px;
     transition: background-color 0.3s ease;
   }
+ 
+  .navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin: 0 10px;
+    position: relative;
+  }
+  
+  nav a {
+    color: #0000ff; /* modrá barva textu */
+    text-decoration: none;
+  }
+  
+  nav a:after {
+    content: '';
+    display: block;
+    height: 2px;
+    width: 0;
+    background-color: rgb(251, 255, 0);
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    transition: width 0.3s ease;
+  }
+  
+  nav a:hover:after {
+    width: 100%;
+    background-color: orange;
+  }
+  
+  footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+  }
+  
+  footer a {
+    color: #1e90ff; /* modrá barva pro odkazy */
+    text-decoration: none;
+    transition: color 0.3s ease; /* plynulá změna barvy textu při najetí myší */
+  }
+  
+  footer a:hover {
+    color: #ff8c00; /* oranžová barva pro odkazy při najetí myší */
+  }
+  
   
   
   
