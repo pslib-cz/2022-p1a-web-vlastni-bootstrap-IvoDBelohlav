@@ -108,9 +108,7 @@ footer {
   header{
     top: 10px;
   }
-  .navbar-toggler-icon {
-    color: red;
-  }
+ 
   .bg-gradient-custom {
     background: linear-gradient(to bottom, #6a11cb, #2575fc);
   }
