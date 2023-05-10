@@ -18,30 +18,30 @@ Editací tohoto souboru a náhradou ``[ ]`` za ``[x]`` můžete evidovat, které
 * [ ] V repozitáři se soubory ocitly pomocí commitů a pushů a těch je více než 3, rozprostřených do celé doby vypracovávání zadání[x]
 * [ ] Web je dostupný přes [Github Pages](https://pages.github.com/) (do README.md přidejte odkaz)[x]
 * [ ] Celková načítaná velikost jednotlivých stránek nepřesahuje jednotky MiB
-* [ ] Obrázky mají rozumnou velikost pro mobilní telefon - tj. odpovídají skutečné velikost vymezeného prostoru
+* [ ] Obrázky mají rozumnou velikost pro mobilní telefon - tj. odpovídají skutečné velikost vymezeného prostoru[x]
 
 ### Použité komponenty
 
-* [ ] šířka stránky je omezena přes ``conteiner``
-* [ ] jedna galerie s obrázky (např. pomocí prvků typu Card)
-* [ ] všechny stránky budou fungovat na třech rozlišeních: telefonu (sm), tabletu (md nebo lg) a desktopu
-* [ ] použitý carousel nebo hero s obrázkem
-* [ ] vytvořený formulář (kontaktní, registrační)
-* [ ] sticky záhlaví stránky s menu
-* [ ] zápatí stránky (např. https://mdbootstrap.com/docs/jquery/navigation/footer/#advanced)
-* [ ] modifikovaný styl Bootstrapu ( , https://mdbootstrap.com/docs/jquery/getting-started/installation-guide/ )
+* [ ] šířka stránky je omezena přes ``conteiner``[x]
+* [ ] jedna galerie s obrázky (např. pomocí prvků typu Card) [x]
+* [ ] všechny stránky budou fungovat na třech rozlišeních: telefonu (sm), tabletu (md nebo lg) a desktopu [x]
+* [ ] použitý carousel nebo hero s obrázkem [x]
+* [ ] vytvořený formulář (kontaktní, registrační) [x]
+* [ ] sticky záhlaví stránky s menu [x]
+* [ ] zápatí stránky (např. https://mdbootstrap.com/docs/jquery/navigation/footer/#advanced)[x]
+* [ ] modifikovaný styl Bootstrapu ( , https://mdbootstrap.com/docs/jquery/getting-started/installation-guide/ )[x]
 https://bootstrap.build/themes, https://bootstrap.build/app
 ### Estetická kritéria
-* [ ] stránka je hezká
-* [ ] prvky na sobě nejsou nalepené a je mezi nimi rozumná mezera
+* [ ] stránka je hezká[x]
+* [ ] prvky na sobě nejsou nalepené a je mezi nimi rozumná mezera[x]
 
 ## Reference
 
-* https://getbootstrap.com/
+* https://getbootstrap.com/[x]
 
 ## Vlastní obsah
 
-Jednou ze zajímavých možností dnešní doby je vygenerování obsahu pomocí vhodných modelů a nástrjů umělých inteligencí. Je vhodné si tuto dovednost osvojit co nejdříve, proto využijte toto zadání k vyzkoušení následujících technologií:
+Jednou ze zajímavých možností dnešní doby je vygenerování obsahu pomocí vhodných modelů a nástrjů umělých inteligencí. Je vhodné si tuto dovednost osvojit co nejdříve, proto využijte toto zadání k vyzkoušení následujících technologií:[x]
 
 ### Generování textu (LLM)
 
